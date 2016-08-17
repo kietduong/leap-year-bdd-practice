@@ -1,12 +1,30 @@
-# _{Application Name}_
+# _Leap Year _
 
-#### _{Brief description of application}, {Date of current version}_
+#### _A webpage that determines whether or not an inputted year is a leap year or not, 8-17-16_
 
-#### By _**Caleb Stevenson**_
+#### By _**Caleb Stevenson &amp; Kiet Duong**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This webpage will use html, css, JavaScript and jQuery to take an integer from a user and determine if the integer is a leap by running it through several if/else statements and loops_
+
+#### Specs from Leap Year Lessons
+
+###### The program should return when a year is not a leap year.
+* _Input Example: 1993_
+* _Output Example: false_
+
+###### The program should return 'true' for years divisible by 4, since those are leap years.
+* _Input Example: 2004_
+* _Output Example: true_
+
+###### The program should return 'false' for years divisible by 100, since those are not leap years.
+* _Input Example: 1900_
+* _Output Example: false_
+
+###### The program should return 'true' for years divisible by 400, since those are leap years.
+* _Input Example: 2000_
+* _Output Example: true_
 
 ## Setup/Installation Requirements
 
@@ -21,7 +39,8 @@ _None yet_
 
 ## Support and contact details
 
-_Caleb Stevenson: cgrahamstevenson@gmail.com_
+* _Caleb Stevenson: cgrahamstevenson@gmail.com_
+* _Kiet Duong: kd14g@my.fsu.edu_
 
 ## Technologies Used
 
@@ -33,4 +52,4 @@ JS_
 
 *This webpage is licensed under the GPL license.*
 
-Copyright (c) 2016 **_Caleb Stevenson_**
+Copyright (c) 2016 **_Caleb Stevenson, Kiet Duong_**
